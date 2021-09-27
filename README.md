@@ -29,3 +29,9 @@ Host *
 Restart gitbash or exit and reopen gitbash 
 
 #Done
+
+For more information please visit
+
+```
+https://rcmdnk.com/en/blog/2015/01/18/computer-linux-putty/
+```
