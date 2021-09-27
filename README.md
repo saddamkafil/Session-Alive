@@ -17,7 +17,8 @@ sudo /etc/init.d/sshd restart
 ```
 
 ####Step3: In git bash add below lines in 
-``` ~/.ssh/config
+``` 
+~/.ssh/config
 ```
 ### Lines to be added are 
 ```
