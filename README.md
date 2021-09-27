@@ -5,6 +5,7 @@
 /etc/ssh/sshd_config 
 ```
 ClientAliveInterval 60
+
 ClientAliveCountMax 3
 
 #### setp2: Restart sshd
