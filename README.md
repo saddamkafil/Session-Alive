@@ -1,7 +1,8 @@
 ### How to configure git-bash from disconnecting 
 
 ####Step-1 : On server side edit below line 
-```/etc/ssh/sshd_config 
+```
+/etc/ssh/sshd_config 
 ```
 ClientAliveInterval 60
 ClientAliveCountMax 3
